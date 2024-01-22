@@ -1,0 +1,189 @@
+
+header {
+    width: 1300px;
+    background-color: #fff;
+}
+
+div ul {
+    display: flex;
+    gap: 25px;
+}
+
+.img {
+    width: 22px;
+    height: 22px;
+    margin-left: 15px;
+}
+
+.bm {
+    color: #ff5400;
+    margin-left: 5px;
+}
+
+.bm0 {
+    display: flex;
+    align-items: center;
+}
+
+.bm1 {
+    margin-left: 20px;
+    margin-left: 10px;
+}
+
+.b1 {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.bm1 li {
+    list-style: none;
+    align-items: center;
+
+}
+
+.home1 {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    color: #ff5400;
+}
+
+.first {
+    background-image: url(./Images/Group\ 13\ \(1\)\ \(1\).png);
+    width: 1200px;
+    height: 500px;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.nav-text {
+    justify-content: center;
+}
+
+.text {
+
+    justify-content: center;
+    color: #fff;
+}
+
+.h1 {
+    font-size: 64px;
+    font-weight: 800;
+    font-style: normal;
+    line-height: normal;
+
+}
+
+.banner-text {
+    display: flex;
+    justify-content: center;
+
+}
+
+.img-search {
+    height: 12px;
+    width: 15px;
+}
+
+.nav-input {
+    display: flex;
+
+    margin: 90px;
+    justify-content: center;
+    padding: 16px 10px;
+    gap: 10px;
+
+}
+
+.batton {
+    padding: 7px;
+    border-radius: 5px;
+    background: #FF5400;
+
+}
+
+.bm2 {
+    margin-left: 20px;
+    margin-top: 25px;
+    display: flex;
+    width: 600px;
+}
+
+.bm2 ul {
+    display: grid;
+    width: 555px;
+}
+
+.text-1 {
+    font-size: 16px;
+}
+
+.img-1 {
+
+    margin-left: 15px;
+}
+
+.bm-3 {
+
+
+    margin: 20px;
+    padding: 0 20px;
+    line-height: 5px;
+    justify-content: center;
+}
+
+
+
+.bm-4 {
+   justify-content: center;
+    gap: 5px;
+    display: grid;
+}
+.bm-5{
+    justify-content: center;
+    margin-left:20px ;
+    line-height: 5px;
+}
+.bandhon{
+    display: flex;
+   
+}
+.bm6{
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgba(251, 181, 99, 0.05)  ;
+    column-gap: 15px;
+    border: 1px solid rgba(251, 181, 99, 20.05);
+    border-radius: 8px;
+    width: 400px;
+    justify-content: center;
+    line-height: 15px;
+    padding: 10px;
+}
+.imgs{
+    width: 35px;
+    height: 35px;
+   
+}
+.bm7{
+    border-radius: 8px;
+    width: 400px;
+    justify-content:space-between ;
+    line-height: 15px;
+   background: rgba(41, 206, 246, 0.05) ;
+   border: 1px solid rgba(251, 181, 99, 20.05);
+   padding: 10px;
+   margin-top: 15px;
+   margin-left: auto;
+   margin-right: auto;
+}
+.bm8{
+    justify-content: center;
+    line-height: normal;
+}
