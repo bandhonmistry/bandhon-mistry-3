@@ -1,5 +1,5 @@
 
-header {
+body {
     width: 1300px;
     background-color: #fff;
 }
@@ -7,6 +7,9 @@ header {
 div ul {
     display: flex;
     gap: 25px;
+}
+.bm00>li{
+list-style: none;
 }
 
 .img {
@@ -113,6 +116,8 @@ border: none;
     color: #FF5400;
 }
 .bb{
+    width: 25px;
+    height: 25px;
     border-radius: 50%;
     background-color: #FF5400;
 }
@@ -267,14 +272,41 @@ padding: 30px;
     height:auto;
 }
 .bm18{
-    padding: 15px;
+    padding: 10px;
     border: 2px solid rgb(236, 217, 214);
     background-color: rgb(248, 246, 243);
     width: 490px;
-    height: auto;
+    height:440px;
     border-radius: 15px;
 }
 .bm19>ul{
     display: grid;
 
+}
+.bm20{
+    display: flex;
+    gap: 15px;
+}
+.bm21{
+    margin-left: 15px;
+    width: 500px;
+padding: 15px;
+    border: 2px solid rgb(184, 169, 166);
+    background-color: rgb(248, 246, 243);
+    border-radius: 15px;
+    line-height: 25px;
+}
+.bm22 img{
+width: 600px;
+height: auto;
+border-radius: 15px;
+}
+#bm{
+    display: grid;
+    flex-direction: row;
+}
+#bm1{
+    margin-left: 15px;
+    margin-top: 25px;
+    justify-content: center;
 }
