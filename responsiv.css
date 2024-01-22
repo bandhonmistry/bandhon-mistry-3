@@ -1,0 +1,24 @@
+@media screen and (max-width:600px) {
+    .header ,
+    .first,
+    .bm2,
+    .nav1,
+    .bm5,
+.bandhon,
+    .bm8,
+.bm15,
+.bm16,
+.bm20,
+.bm23,
+.bm00{
+    
+        flex-direction: column;
+        height: auto;
+        margin-top: 15px;
+        
+    }
+
+
+
+
+}
